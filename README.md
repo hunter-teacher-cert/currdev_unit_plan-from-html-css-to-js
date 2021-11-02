@@ -1,5 +1,5 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Introduction to Javascript
+by Daiana Munoz
 
 -----
 
