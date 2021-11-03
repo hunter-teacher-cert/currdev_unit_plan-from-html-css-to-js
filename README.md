@@ -13,7 +13,7 @@ Students will learn about variables, DOM manipulation, and events. Culminating f
 
 ## Motivation for Unit
 <!--(why have you decided to make this?)-->
-Intro to Javascript will be the last unit in the Digital Web Design class taught at PEHS.
+Intro to Javascript will be the last unit in the Digital Web Design class taught at PEHS. JS is also a common language that front-end computer programmers use and students should learn what is standard in the CS industry.
 
 ---
 
