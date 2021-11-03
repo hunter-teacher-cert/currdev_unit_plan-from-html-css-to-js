@@ -4,7 +4,7 @@ by Daiana Munoz
 -----
 
 ## General Overview
-/*(include here description of unit, what class(es) it fits into, when...)*/
+//(include here description of unit, what class(es) it fits into, when...)
 Class: Digital Web Design
 In this unit, students will learn the basics of Javascript and how it can be an interactive part of any website. This unit will follow the HTML and CSS units.
 Students will learn about variables, DOM manipulation, and events. Culminating final project still TBD.
