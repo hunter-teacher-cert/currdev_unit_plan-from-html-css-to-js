@@ -9,17 +9,18 @@ What is JS and what are some possible projects we can create with this new langu
   * reflect on past projects and how we can improve them
 
 ## Vocabulary
-  * javascript
+  * javascript, console
   
 ## Materials
-  * laptop, slides, sample websites (on slides)
+  * laptop, slides(called 1. intro to js), sample websites (on slides)
 
 ## Lesson Context
 ### Before lesson- finished CS lesson
 ### Next lesson- intro to variables
 
 ## Lesson Sequence
-### Do Now: 
+### Do Now:
+Students will be given some time to complete and submit previous projects
 ### Lesson:
 ### Student Activity/Exit Slip:
 
