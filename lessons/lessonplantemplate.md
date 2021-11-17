@@ -1,4 +1,5 @@
 # Lesson number- 
+## Time- number sessions, 45 mins each
 ## Essential Question
 
 ## Objectives
