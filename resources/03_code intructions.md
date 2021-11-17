@@ -2,21 +2,21 @@
 A few things have been set up for you in this lab that we will go over later in the semester, but for now, we will focus on conditional statements.
 
 Conditional statements will also be called if statements. They help with cause and effect so that an action must meet speficic guidelines before it can be deployed. For example(peep the formatting!):
-
+```
   if (I do my homework){
     I will pass my class;
   }
-
+```
 You can add more if statements by using "else if" as follows:
-
+```
   if (I do my homework){
     I will pass my class;
   } else if (I study for my exam){
     I will pass the exam;
   }
-
+```
 You can also add "else" at the end for circumstances not covered in the if statement(s):
-
+```
   if (I do my homework){ 
     I will pass my class;
   } else if (I study for my exam){
@@ -24,7 +24,7 @@ You can also add "else" at the end for circumstances not covered in the if state
   } else {
     I will fail;
   }
-
+```
 * NOTE: Indentation is important when using conditionals.
 
 ## Task
