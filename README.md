@@ -61,7 +61,7 @@ Total lenght: 12 periods
 
 ---
 
-## Assesments
+## Assessments
 <!--(list summative and/or formative assessments used)-->
 
 ---
