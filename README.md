@@ -6,20 +6,21 @@ by Daiana Munoz
 ## General Overview
 <!--(include here description of unit, what class(es) it fits into, when...)-->
 Class: Digital Web Design
-In this unit, students will learn the basics of Javascript and how it can be an interactive part of any website. This unit will follow the HTML and CSS units.
-Students will learn about variables, DOM manipulation, and events. Culminating final project still TBD.
+
+In this unit, students will learn the basics of Javascript and how it can be an interactive part of any website. By now, students will have learned HTML and CSS 
+and will use both langugages throughout the unit. Students will learn about variables, DOM manipulation, and events. Final project will be done in pairs and can choose to code either Hangman, an Image Guesser, or a Quiz with a score at the end.
 
 ---
 
 ## Motivation for Unit
 <!--(why have you decided to make this?)-->
-Intro to Javascript will be the last unit in the Digital Web Design class taught at PEHS. JS is also a common language that front-end computer programmers use and students should learn what is standard in the CS industry.
+Intro to Javascript will be the last unit in the Digital Web Design class taught at PEHS. JS is also a common language that front-end computer programmers use and I believe students should learn what is standard in the CS industry.
 
 ---
 
 ## Standards Referenced
 <!--(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)-->
-New York State Computer Science and Digital Fluency Learning Standards: The following sections from the above standards were used in this unit. I wanted to teach some basic Javascript related to HTML while also addressing some of the issues tied to the lesson topics.
+[New York State Computer Science and Digital Fluency Learning Standards(NYSCSDFLS)](http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf): The following sections from the NYSCSDFLS were used in this unit. I wanted to teach some basic Javascript related to HTML while also addressing some of the issues tied to the lesson topics.
 
 * 9-12.IC.4: Assess personal and societal trade-offs related to computing technologies and data privacy.
 * 9-12.IC.6: Create accessible computational artifacts that meet standard compliance requirements or otherwise meet the needs of users with disabilities.
@@ -66,6 +67,6 @@ Total lenght: 12 periods
 ---
 
 TO DO LIST
-- finish home page
-- write lesson plans(all slides done)
+- finish home page(assessments)
+- write lesson plans(all slides done tho)
 - rubrics for 3 final projects
