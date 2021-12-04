@@ -12,7 +12,7 @@ What is JS and what are some possible projects we can create with this new langu
   * javascript, console
   
 ## Materials
-  * laptop, slides(called 1. intro to js), sample websites (on slides)
+  * laptop, slides(01_intro to js), sample websites (on slides)
 
 ## Lesson Context
 ### Before lesson- finished CS lesson
