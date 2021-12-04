@@ -5,6 +5,7 @@ var userInput = window.prompt("Name a borough!");
 //Step 2 below (we set up what happens when nothing is inputted)
 if ((userInput==null)||(userInput=="")){
   boroughCheck="<h1>Nothing was entered. Refresh the page and try again.</h1>";
+//Step 3 below we add the conditions for each borough
 } else if (userInput=="Manhattan"||userInput="manhattan") {
   boroughCheck="<h1>You are correct!</h1>";
 } else if (userInput=="Queens"||userInput="queens") {
