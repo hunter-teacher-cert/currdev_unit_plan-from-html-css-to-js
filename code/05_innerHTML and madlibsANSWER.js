@@ -18,7 +18,7 @@ var adj2= document.querySelector("#adjective2");
 var noun1= document.querySelector("#noun1");
 var noun2= document.querySelector("#noun2");
 
-// STEP 5: We use the new variables and assign them some fun words using innerHTML. What would you like to add?
+// STEP 5: We will use innerHTML to insert the userInput that we stored in the variables in steps 2 and 3. The first is done for you. Fill in the rest!
 adj1.innerHTML=firstAdj;
 adj2.innerHTML=secondAdj ;
 noun1.innerHTML=firstNoun;
