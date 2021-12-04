@@ -35,12 +35,16 @@ The following sections from the above standards were used in this unit. I wanted
 ---
 
 ## Tools Used
-<!--(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)-->
+* HTML, CSS, and Javascript using Repl as the coding environment
+* Google Classroom for access to the labs/assignments
+  * Google Docs for planning their final project
 
 ---
 
 ## Resources
-<!--(include any links/books/readings to be used during this unit)-->
+* [W3Schools](http://w3schools.com/)
+* [Student Slides](https://docs.google.com/presentation/d/1Bj1zuknxTlWu1_b014lqL6UkduuS1iy1jdFcpv7hdYI/edit?usp=sharing) (updated periodically)
+* [Reference Sheet from Upperline](https://github.com/upperlinecode/html-css-js-reference)
 
 ---
 
