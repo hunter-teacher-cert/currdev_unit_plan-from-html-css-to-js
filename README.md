@@ -48,9 +48,15 @@ New York State Computer Science and Digital Fluency Learning Standards: The foll
 ---
 
 ## Lessons
-Total lenght: ~2 Weeks
-
 <!--(list each lesson with main topic(s))-->
+Total lenght: 12 periods
+* Lesson 1- Intro to Javascript. Look at sample JS projects
+* Lesson 2- Intro to variables. Learn about variable and practice assigning variables.
+* Lesson 3- Variables and conditionals. Use conditionals with variables.
+* Lesson 4- Variables and window prompt. Using window prompt as an input.
+* Lesson 5- innerHTML. Code a game of madlibs using window prompt as the input.
+* Lesson 6- Inputs and events. Learn to use HTML inputs and through JS event listeners.
+* Lesson 7- Project Mode. Students will choose and create one of 3 final projects.
 
 ---
 
@@ -58,3 +64,8 @@ Total lenght: ~2 Weeks
 <!--(list summative and/or formative assessments used)-->
 
 ---
+
+TO DO LIST
+- finish home page
+- write lesson plans(all slides done)
+- rubrics for 3 final projects
