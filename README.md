@@ -19,9 +19,8 @@ Intro to Javascript will be the last unit in the Digital Web Design class taught
 
 ## Standards Referenced
 <!--(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)-->
-* New York State Computer Science and Digital Fluency Learning Standards
-The following sections from the above standards were used in this unit. I wanted to teach some basic Javascript related to HTML while also addressing some of the issues tied to the lesson topics.
-### Topics addressed:
+New York State Computer Science and Digital Fluency Learning Standards: The following sections from the above standards were used in this unit. I wanted to teach some basic Javascript related to HTML while also addressing some of the issues tied to the lesson topics.
+
 * 9-12.IC.4: Assess personal and societal trade-offs related to computing technologies and data privacy.
 * 9-12.IC.6: Create accessible computational artifacts that meet standard compliance requirements or otherwise meet the needs of users with disabilities.
 * 9-12.IC.7: Investigate the use of computer science in multiple fields.
