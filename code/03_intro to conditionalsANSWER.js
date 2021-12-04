@@ -1,7 +1,7 @@
 console.log("Hello, I work!");
 
   //--------------------------------------
-//Let's practice conditionals below! DO NOT TOUCH CODE ABOVE THIS LINE!!!
+//Let's practice conditionals below! We will be using the console for this lab.
 
 var randomNumber = Math.floor((Math.random()*10)+1);
 
