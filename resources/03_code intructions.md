@@ -1,4 +1,4 @@
-# Lab 10- Practice Conditionals!
+# Lab 3- Practice Conditionals!
 A few things have been set up for you in this lab that we will go over later in the semester, but for now, we will focus on conditional statements.
 
 Conditional statements will also be called if statements. They help with cause and effect so that an action must meet speficic guidelines before it can be deployed. For example(peep the formatting!):
