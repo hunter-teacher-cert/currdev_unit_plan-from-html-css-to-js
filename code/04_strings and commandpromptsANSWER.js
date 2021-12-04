@@ -6,15 +6,15 @@ var userInput = window.prompt("Name a borough!");
 if ((userInput==null)||(userInput=="")){
   boroughCheck="<h1>Nothing was entered. Refresh the page and try again.</h1>";
 //Step 3 below we add the conditions for each borough
-} else if (userInput=="Manhattan"||userInput="manhattan") {
+} else if (userInput=="Manhattan"||userInput=="manhattan") {
   boroughCheck="<h1>You are correct!</h1>";
-} else if (userInput=="Queens"||userInput="queens") {
+} else if (userInput=="Queens"||userInput=="queens") {
   boroughCheck="<h1>You are correct!</h1>";
-} else if (userInput=="Bronx"||userInput="bronx") {
+} else if (userInput=="Bronx"||userInput=="bronx") {
   boroughCheck="<h1>You are correct!</h1>";
-} else if (userInput=="Brooklyn"||userInput="Brooklyn") {
+} else if (userInput=="Brooklyn"||userInput=="Brooklyn") {
   boroughCheck="<h1>You are correct!</h1>";
-} else if (userInput=="Staten Island"||userInput="Staten Island") {
+} else if (userInput=="Staten Island"||userInput=="Staten Island") {
   boroughCheck="<h1>You are correct!</h1>";
 } else {
   boroughCheck="<h1> You are wrong, try again!</h1>";
