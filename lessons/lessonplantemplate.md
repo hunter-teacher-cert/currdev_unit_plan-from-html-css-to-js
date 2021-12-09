@@ -23,3 +23,13 @@
 ### Scaffolds/Support
 
 ## Interdisciplinary connections
+
+
+
+** what to include
+Main objective
+Standards
+In class exercises
+Notes
+Resources
+Assignments
