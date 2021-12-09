@@ -73,4 +73,4 @@ TO DO LIST
 - Add NY standards to your list of lessons for your unit plan.
 - This is on the main overview page created from the unit plan template.
 - After each lesson put the number of the standard(s) that apply.
-- Develop An In Class And An Out Of Class Assignment For your unit plan.
+- Develop An In Class And An Out Of Class Assignment For your unit plan. (fix these and add out of class one to one of the lessons (maybe final?))
