@@ -70,3 +70,6 @@ TO DO LIST
 - finish home page(assessments)
 - write lesson plans(all slides done tho)
 - rubrics for 3 final projects
+- Add NY standards to your list of lessons for your unit plan.
+- This is on the main overview page created from the unit plan template.
+- After each lesson put the number of the standard(s) that apply.
