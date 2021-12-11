@@ -18,7 +18,7 @@
   * project ideation
   
 ## Materials
-  * slides (07_js final project.pdf), repl account, project ideation form(JS Project- Ideation.pdf)
+  * slides (07_js final project.pdf), repl account, project ideation form(JS Project- Ideation.pdf), rubrics (posted under resources)
 
 ## Lesson Context
 * Before lesson- inputs and events
