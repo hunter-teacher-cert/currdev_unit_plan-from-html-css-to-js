@@ -1,5 +1,5 @@
 # Lesson 1- Intro to Javascript
-## Time- 1 session, 45 mins each
+## Time- 1 session, 45 mins
 
 ## Essential Question
 What is JS and what are some possible projects we can create with this new language?
