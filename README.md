@@ -70,8 +70,8 @@ Total lenght: 12 periods
 ## Assessments
 <!--(list summative and/or formative assessments used)-->
 * Formative assessments:
-  * all labs(as I call coding assignments) were graded informally and were based on completion of code-along work we did in class
-  * one lab (describe hw)
+  * all labs(in-class assignments/student activities) are graded informally and are based on completion of code-along work we did in class
+  * homework as extension of labs
 
 * Summative assessment:
   * Project 1- Students are expected to work with a partner and use a combination of the labs and the internet to create either an To Do List Creator, Hangman, or a Quiz with a score at the end. This will test their aability to use prior knowledge and fill in the gaps using online resources to finish the code.
