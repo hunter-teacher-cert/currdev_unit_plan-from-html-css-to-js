@@ -69,7 +69,7 @@ Total lenght: 12 periods
 ## Assessments
 <!--(list summative and/or formative assessments used)-->
 * Formative assessments:
-  * all labs were graded informally and were based on completion of code-along work we did in class
+  * all labs(as I call coding assignments) were graded informally and were based on completion of code-along work we did in class
   * one lab (describe hw)
 
 * Summative assessment:
