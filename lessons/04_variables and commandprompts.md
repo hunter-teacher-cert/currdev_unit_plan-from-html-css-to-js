@@ -1,8 +1,9 @@
 # Lesson number- 
-## Time- number sessions, 45 mins each
-## Essential Question
+## Time- number sessions, 45 mins 
 
 ## Objectives
+
+## Standards
 
 ## Vocabulary
   *
@@ -11,8 +12,8 @@
   *
 
 ## Lesson Context
-### Before lesson-
-### Next lesson-
+* Before lesson-
+* Next lesson-
 
 ## Lesson Sequence
 ### Do Now: 
@@ -24,12 +25,3 @@
 
 ## Interdisciplinary connections
 
-
-
-** what to include
-Main objective
-Standards
-In class exercises
-Notes
-Resources
-Assignments
