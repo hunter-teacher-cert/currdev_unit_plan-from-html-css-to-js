@@ -79,7 +79,4 @@ Total lenght: 12 periods
 ---
 
 TO DO LIST
-- finish home page(assessments)
-- write lesson plans(all slides done tho)
 - rubrics for 3 final projects
-- Develop An In Class And An Out Of Class Assignment For your unit plan. (fix these and add out of class one to one of the lessons (maybe final?))
