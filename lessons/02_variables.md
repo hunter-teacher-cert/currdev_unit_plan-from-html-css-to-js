@@ -12,7 +12,7 @@
   * variable, window prompt, command prompt, string, boolean, assignment, storing, var, algorithm, console
   
 ## Materials
-  * slides(02_js variables.pdf), code(02_intro to variables.js), laptop, repl account, case-sensitive
+  * slides(02_js variables.pdf), code(02_intro to variables.js), homework code(02_HW.md, also available inside the intro to variables lab), laptop, repl account, case-sensitive
 
 ## Lesson Context
 * Before lesson- explore different JS sample projects
