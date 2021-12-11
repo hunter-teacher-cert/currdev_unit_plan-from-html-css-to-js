@@ -49,6 +49,7 @@ Total lenght: 12 periods
   * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 4- Variables and window prompt. Using window prompt as an input.
   * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
+  * 9-12.IC.7: Investigate the use of computer science in multiple fields.
 * Lesson 5- innerHTML. Code a game of madlibs using window prompt as the input.
   * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 6- Inputs and events. Learn to use HTML inputs and through JS event listeners.
