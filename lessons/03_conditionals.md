@@ -22,7 +22,7 @@
 ### Do Now:
 Review the different types of variables we learned the day before. Today we will be using numbers.
 ### Lesson:
-We review conditional statements and its importance in code and in our lives. Most things goes through a condition in order for a something to happen. Then we look at some coding examples and basic syntax. I also explain the differences between the = and == operators in code.
+I explain the differences between the = and == operators in code, in addition to some math operators that are also used in code. We review conditional statements and its importance in code and in our lives. Most things goes through a condition in order for a something to happen. Then we look at some coding examples and basic syntax.
 ### Student Activity/Exit Slip:
 We do a code-along in this lab with a random number guesser. The random number generator is already included in the lab. The way the lab is set up, students only get one change to get the answer correct. This is intentional, since I intend to revisit this example in a future unit. I guide students through the lab asking questions like "How do we win the game? What are the conditions to win? What if my guess is too low? Which operator is to be used in the conditions and why?"
 
