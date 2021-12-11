@@ -68,14 +68,17 @@ Total lenght: 12 periods
 
 ## Assessments
 <!--(list summative and/or formative assessments used)-->
-Most of the assignments are based on completion since they 
+* Formative assessments:
+  * all labs were graded informally and were based on completion of code-along work we did in class
+  * one lab (describe hw)
+
+* Summative assessment:
+  * Project 1- Students are expected to work with a partner and use a combination of the labs and the internet to create either an To Do List Creator, Hangman, or a Quiz with a score at the end. This will test their aability to use prior knowledge and fill in the gaps using online resources to finish the code.
+
 ---
 
 TO DO LIST
 - finish home page(assessments)
 - write lesson plans(all slides done tho)
 - rubrics for 3 final projects
-- Add NY standards to your list of lessons for your unit plan.
-- This is on the main overview page created from the unit plan template.
-- After each lesson put the number of the standard(s) that apply.
 - Develop An In Class And An Out Of Class Assignment For your unit plan. (fix these and add out of class one to one of the lessons (maybe final?))
