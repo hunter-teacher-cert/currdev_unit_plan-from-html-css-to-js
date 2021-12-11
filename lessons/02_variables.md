@@ -25,6 +25,8 @@ Students will write specific instructions on how to make a sandwhich with a few 
 Types of variables reviewed, followed by how to use them in different examples. I also make a point to explain case-sensitive and proper syntax with both variables and other JS components. Afterwards we look at how to use JS as a seperate sheet from HTML. Explain that things printed in the console do not appear physically on the website.
 ### Student Activity/Exit Slip:
 The first lab for this unit is a code-along. We go over some basic JS rules, such as declaring variables, using semi-colons at the ends of statements, and making sure that things follow a specific order. We code our birthdays and show that we can use a combination of sentences and variables to print out a statement in the console.
+### Homework
+Students will practice creating variables by converting one measurement to another(for example: feet to inches).
 
 ## Differentiation
 ### Scaffolds/Support
