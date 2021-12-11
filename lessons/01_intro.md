@@ -5,7 +5,7 @@
 What is JS and what are some possible projects we can create with this new language?
 
 ## Objectives(SWBAT)
-  * identify different uses for JS
+  * identify and explore different uses for JS
   * reflect on past projects and how we can improve them
 
 ## Vocabulary
@@ -15,8 +15,8 @@ What is JS and what are some possible projects we can create with this new langu
   * laptop, slides(01_intro to js), sample websites (on slides)
 
 ## Lesson Context
-### Before lesson- finished CS lesson
-### Next lesson- intro to variables
+* Before lesson- finished CS lesson
+* Next lesson- intro to variables
 
 ## Lesson Sequence
 ### Do Now:
