@@ -1,12 +1,11 @@
 # Lesson 1- Intro to Javascript
 ## Time- 1 session, 45 mins
 
-## Essential Question
-What is JS and what are some possible projects we can create with this new language?
-
 ## Objectives(SWBAT)
   * identify and explore different uses for JS
   * reflect on past projects and how we can improve them
+
+## Standards
 
 ## Vocabulary
   * javascript, console
