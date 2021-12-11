@@ -12,7 +12,7 @@
   * conditional statements, operator
   
 ## Materials
-  * slides (03_js conditionals.pdf), code(03_intro to conditionals.js)
+  * slides (03_js conditionals.pdf), code(03_intro to conditionals.js), repl account
 
 ## Lesson Context
 * Before lesson- learn about variables
