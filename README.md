@@ -52,18 +52,33 @@ Intro to Javascript will be the last unit in the Digital Web Design class taught
 <!--(list each lesson with main topic(s))-->
 Total lenght: 12 periods
 * Lesson 1- Intro to Javascript. Look at sample JS projects
-* Lesson 2- Intro to variables. Learn about variable and practice assigning variables.
+  * 9-12.IC.7: Investigate the use of computer science in multiple fields.
+* Lesson 2- Intro to variables. Learn about variables and practice assigning values.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 3- Variables and conditionals. Use conditionals with variables.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 4- Variables and window prompt. Using window prompt as an input.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 5- innerHTML. Code a game of madlibs using window prompt as the input.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 * Lesson 6- Inputs and events. Learn to use HTML inputs and through JS event listeners.
+  * 9-12.IC.4: Assess personal and societal trade-offs related to computing technologies and data privacy.
+  * 9-12.IC.7: Investigate the use of computer science in multiple fields.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
+  * 9-12.CY.1: Determine the types of personal and organizational information and digital resources that an individual may have access to that needs to be protected.
 * Lesson 7- Project Mode. Students will choose and create one of 3 final projects.
+  * 9-12.IC.7: Investigate the use of computer science in multiple fields.
+  * 9-12.IC.6: Create accessible computational artifacts that meet standard compliance requirements or otherwise meet the needs of users with disabilities.
+  * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
+  * 7-8.CT.7: Design or remix a program that uses a variable to maintain the current value of a key piece of information.
+  * 9-12.CT.9: Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+  * 9-12.DL.2: Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
 
 ---
 
 ## Assessments
 <!--(list summative and/or formative assessments used)-->
-
+Most of the assignments are based on completion since they 
 ---
 
 TO DO LIST
