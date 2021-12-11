@@ -27,9 +27,11 @@
 ### Do Now:
 Review of previous lesson
 ### Lesson:
-Day 1: Introduce project choices. Review project expectations. Commence project ideation with partners once they choose one of the 3 games (image guesser, quiz, hangman).
+Day 1: Introduce project choices. Review project expectations. Commence project ideation with partners once they choose one of the 3 games (image guesser, quiz, hangman). Once worksheet is complete, we review each group and come up with solutions for possible problems.
+Day 2-3: Students start coding. They work on HTML and CSS portion of their project. Throughout the coding process, we may stop and debug as a class.
+Day 3-4: Students continue coding. They start working on the Javascript portion. Throughout the coding process, we may stop and debug as a class.
+Day 5: Presentations. Students get to present and try out their code with their classmates. We ask for volunteers to come up to the board and try them out.
 
 ## Differentiation
 ### Scaffolds/Support
-
-## Interdisciplinary connections
+All slides and coding materials are posted. Students are encouraged to look at these resources when coding, including looking at past assignments and using w3schools as a reference. Students will be working with a partner so they can debug together or ask for help from another group working on a similar project.
