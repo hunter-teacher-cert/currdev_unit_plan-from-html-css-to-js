@@ -25,8 +25,9 @@
 
 ## Lesson Sequence
 ### Do Now:
+Review of previous lesson
 ### Lesson:
-### Student Activity/Exit Slip:
+Day 1: Introduce project choices. Review project expectations. Commence project ideation with partners once they choose one of the 3 games (image guesser, quiz, hangman).
 
 ## Differentiation
 ### Scaffolds/Support
