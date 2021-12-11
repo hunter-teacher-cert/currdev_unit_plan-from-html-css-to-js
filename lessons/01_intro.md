@@ -24,7 +24,7 @@ Students will reflect on previous projects to see what functional additions they
 ### Lesson:
 We will review the definition of Javascript and go over samples of code both from my own library of projects and from past student work. Students will also get to demo games and other interactive parts of projects. We will inspect projects to peak into code and see how all 3 languages(HTML, CSS, and JS) work together.
 ### Student Activity/Exit Slip:
-Students will reflect on the lesson and further add more functional and interactive ways they could improve on projects.
+Students will reflect on the lesson and add more functional and interactive ways they could improve on past projects.
 
 ## Differentiation
 ### Scaffolds/Support:
