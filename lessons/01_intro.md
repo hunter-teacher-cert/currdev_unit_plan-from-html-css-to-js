@@ -6,6 +6,7 @@
   * reflect on past projects and how we can improve them
 
 ## Standards
+* 9-12.IC.7: Investigate the use of computer science in multiple fields.
 
 ## Vocabulary
   * javascript, console
