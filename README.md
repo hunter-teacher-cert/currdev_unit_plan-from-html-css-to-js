@@ -74,9 +74,4 @@ Total lenght: 12 periods
   * homework as extension of labs
 
 * Summative assessment:
-  * Final Project- Students are expected to work with a partner and use a combination of the labs and the internet to create either an Image Guesser, Hangman, or a Quiz with a score at the end. This will test their aability to use prior knowledge and fill in the gaps using online resources to finish the code.
-
----
-
-TO DO LIST
-- rubrics for 3 final projects
+  * Final Project- Students are expected to work with a partner and use a combination of the labs and the internet to create either an Image Guesser, Hangman, or a Quiz with a score at the end. This will test their ability to use prior knowledge and fill in the gaps using online resources to finish the code. Rubrics for each project included in the resources folder.
