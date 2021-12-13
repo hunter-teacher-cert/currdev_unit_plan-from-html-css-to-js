@@ -4,7 +4,6 @@ by Daiana Munoz
 -----
 
 ## General Overview
-<!--(include here description of unit, what class(es) it fits into, when...)-->
 Class: Digital Web Design
 
 In this unit, students will learn the basics of Javascript and how it can be an interactive part of any website. By now, students will have learned HTML and CSS 
@@ -13,14 +12,12 @@ and will use both langugages throughout the unit. Students will learn about vari
 ---
 
 ## Motivation for Unit
-<!--(why have you decided to make this?)-->
 Intro to Javascript will be the last unit in the Digital Web Design class taught at PEHS. JS is also a common first language that front- and back-end computer programmers learn and I believe students should learn what is standard in the CS industry.
 
 ---
 
 ## Standards Referenced
-<!--(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)-->
-[New York State Computer Science and Digital Fluency Learning Standards(NYSCSDFLS)](http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf): I selected this set of standards because of its mmany sections which wee reflected in my lessons. I used some of the standards as inspiration during discusssions in class and while planning my work. Other standards didn't have as specific language to wat I wanted to teach.
+[New York State Computer Science and Digital Fluency Learning Standards(NYSCSDFLS)](http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf): I selected this set of standards because of its many sections which were reflected in my lessons. I used some of the standards as inspiration during discusssions in class and while planning my work. Other standards didn't have as specific language to what I wanted to teach.
 
 ---
 
@@ -39,7 +36,6 @@ Intro to Javascript will be the last unit in the Digital Web Design class taught
 ---
 
 ## Lessons
-<!--(list each lesson with main topic(s))-->
 Total lenght: 12 periods
 * Lesson 1- Intro to Javascript. Look at sample JS projects
   * 9-12.IC.7: Investigate the use of computer science in multiple fields.
@@ -52,7 +48,7 @@ Total lenght: 12 periods
   * 9-12.IC.7: Investigate the use of computer science in multiple fields.
 * Lesson 5- innerHTML. Code a game of madlibs using window prompt as the input.
   * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
-* Lesson 6- Inputs and events. Learn to use HTML inputs and through JS event listeners.
+* Lesson 6- Inputs and events. Learn to use HTML inputs and JS event listeners.
   * 9-12.IC.4: Assess personal and societal trade-offs related to computing technologies and data privacy.
   * 9-12.IC.7: Investigate the use of computer science in multiple fields.
   * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
@@ -68,9 +64,8 @@ Total lenght: 12 periods
 ---
 
 ## Assessments
-<!--(list summative and/or formative assessments used)-->
 * Formative assessments:
-  * all labs(in-class assignments/student activities) are graded informally and are based on completion of code-along work we did in class
+  * all labs(in-class assignments/student activities) are graded informally and are based on completion of code-along work we do in class
   * homework as extension of labs
 
 * Summative assessment:
