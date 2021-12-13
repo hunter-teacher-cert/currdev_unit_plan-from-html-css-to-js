@@ -12,7 +12,7 @@
   * javascript, console
   
 ## Materials
-  * laptop, slides(01_intro to js), sample websites (on slides)
+  * slides(01_intro to js), sample websites (on slides)
 
 ## Lesson Context
 * Before lesson- finished CS lesson
