@@ -1,5 +1,5 @@
 # Lesson 7- Final Project
-## Time- 5 sessions, 45 mins each
+## Time- about 5 sessions, 45 mins each
 
 ## Objectives
 * explore possible projects to tackle for their final project
@@ -31,6 +31,8 @@ Review of previous lesson
 * Day 2-3: Students start coding. They work on HTML and CSS portion of their project. Throughout the coding process, we may stop and debug as a class.
 * Day 3-4: Students continue coding. They start working on the Javascript portion. Throughout the coding process, we may stop and debug as a class.
 * Day 5: Presentations. Students get to present and try out their code with their classmates. We ask for volunteers to come up to the board and try them out.
+
+*NOTE: May need an extra day or so to complete the JS portion of this project.*
 
 ## Differentiation
 ### Scaffolds/Support
