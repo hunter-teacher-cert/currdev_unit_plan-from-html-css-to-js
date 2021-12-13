@@ -36,7 +36,7 @@ Intro to Javascript will be the last unit in the Digital Web Design class taught
 ---
 
 ## Lessons
-Total lenght: 12 periods
+Total lenght: 11-12 periods
 * Lesson 1- Intro to Javascript. Look at sample JS projects
   * 9-12.IC.7: Investigate the use of computer science in multiple fields.
 * Lesson 2- Intro to variables. Learn about variables and practice assigning values.
