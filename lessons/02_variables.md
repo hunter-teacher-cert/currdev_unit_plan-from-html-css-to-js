@@ -9,10 +9,10 @@
 * 7-8.CT.6: Design, compare and refine algorithms for a specific task or within a program.
 
 ## Vocabulary
-  * variable, window prompt, command prompt, string, boolean, assignment, storing, var, algorithm, console
+  * variable, window prompt, command prompt, string, boolean, assignment, storing, var, algorithm, console, case-sensitive
   
 ## Materials
-  * slides(02_js variables.pdf), code(02_intro to variables.js), homework code(02_HW.md, also available inside the intro to variables lab), laptop, repl account, case-sensitive
+  * slides(02_js variables.pdf), code(02_intro to variables.js), homework code(02_HW.md, also available inside the intro to variables lab), laptop, repl account
 
 ## Lesson Context
 * Before lesson- explore different JS sample projects
