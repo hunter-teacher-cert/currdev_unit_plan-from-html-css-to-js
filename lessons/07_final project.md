@@ -29,7 +29,7 @@ Review of previous lesson
 ### Lesson:
 * Day 1: Introduce project choices. Review project expectations. Commence project ideation with partners once they choose one of the 3 games (image guesser, quiz, hangman). Once worksheet is complete, we review each group and come up with solutions for possible problems.
 * Day 2-3: Students start coding. They work on HTML and CSS portion of their project. Throughout the coding process, we may stop and debug as a class.
-* Day 3-4: Students continue coding. They start working on the Javascript portion. Throughout the coding process, we may stop and debug as a class.
+* Day 3-4: Students continue coding. They start working on the Javascript portion. Throughout the coding process, we may stop and debug as a class or students can post a link to their work on Google Classroom for others to debug.
 * Day 5: Presentations. Students get to present and try out their code with their classmates. We ask for volunteers to come up to the board and try them out.
 
 *NOTE: May need an extra day or so to complete the JS portion of this project.*
